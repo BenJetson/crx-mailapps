@@ -1,0 +1,17 @@
+{
+  "name": "Gmail",
+  "description": "Web-based email provided by Google.",
+  "version": "1",
+  "manifest_version": 2,
+  "icons": {
+    "256": "gmail.png"
+  },
+  "app": {
+    "urls": [
+      "https://mail.google.com"
+    ],
+    "launch": {
+      "web_url": "https://mail.google.com"
+    }
+  }
+}
