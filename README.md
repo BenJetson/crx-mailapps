@@ -3,13 +3,17 @@
 ![image](https://user-images.githubusercontent.com/10427974/45642625-bd5a5d00-ba86-11e8-995b-f8d4bd86c571.png)
 
 *Make your Gmail icons separate themselves in the dock.*
-Since when these unpacked apps get loaded they will all get a different app ID (unlike the common Gmail app from the Chrome Store), all of the Gmail apps won't get merged together in your dock.
+
+Since when these unpacked apps get loaded they will all get a different app ID (unlike the common Gmail app from the Chrome Store), all of the Gmail apps won't get merged together in your dock. 
 
 ## Warning
 
 This is an unofficial way to do this, and I'm not in any way associated with Google/Gmail. You'll have to enable developer options on your web browser for this to work.
 
 ## Install
+
+### ⚠️⚠️ **Make sure you are in the correct Chrome profile before installing** ⚠️⚠️
+*(ex. if you are installing the school mail app, you should be using the school profile)*
 
 ### 1. Navigate to chrome://extensions and set "Developer mode" toggle to true
 ![image](https://user-images.githubusercontent.com/10427974/45649551-a113eb80-ba99-11e8-9888-7b6dcc58ec01.png)
