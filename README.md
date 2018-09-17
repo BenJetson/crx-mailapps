@@ -4,7 +4,7 @@
 
 *Make your Gmail icons separate themselves in the dock.*
 
-Since when these unpacked apps get loaded they will all get a different app ID (unlike the common Gmail app from the Chrome Store), all of the Gmail apps won't get merged together in your dock. 
+Since when these unpacked apps get loaded they will all get a different app ID (unlike the common Gmail app from the Chrome Store), all of the Gmail apps for various accounts won't get merged together in your dock. 
 
 ## Warning
 
