@@ -15,6 +15,14 @@ This is an unofficial way to do this, and I'm not in any way associated with Goo
 ### ⚠️⚠️ **Make sure you are in the correct Chrome profile before installing** ⚠️⚠️
 *(ex. if you are installing the school mail app, you should be using the school profile)*
 
+### 0. Clone the git repository to your computer
+
+```
+git clone https://github.com/benjetson/crx-mailapps ~/.mailapps
+```
+
+This will clone the repository to the `.mailapps` folder in your home directory.
+
 ### 1. Navigate to chrome://extensions and set "Developer mode" toggle to true
 ![image](https://user-images.githubusercontent.com/10427974/45649551-a113eb80-ba99-11e8-9888-7b6dcc58ec01.png)
 
@@ -24,6 +32,8 @@ This is an unofficial way to do this, and I'm not in any way associated with Goo
 ### 3. Click the directory of the mail app to load
 
 ![image](https://user-images.githubusercontent.com/10427974/45648354-5775d180-ba96-11e8-9db0-cf6c34898ccf.png)
+
+Remember that the repository got cloned to `~/.mailapps`
 
 ### 4. Navigate to chrome://apps and right click on the installed app, then set "Open as Window" to true
 
